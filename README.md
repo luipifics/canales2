@@ -177,3 +177,41 @@ http://45.181.121.154:8000/play/a02f
 http://45.181.121.154:8000/play/a00e
 #EXTINF:-1,ZONA LATINA
 http://45.181.121.154:8000/play/a023
+#EXTINF:-1,m3u_002_CC
+http://190.108.83.142:8000/play/a00j/index.m3u8
+#EXTINF:-1,m3u_002_LATINA_SD
+http://190.108.83.142:8000/play/a00e/index.m3u8
+#EXTINF:-1,m3u_003ATV_SD
+http://190.108.83.142:8000/play/a00g/index.m3u8
+#EXTINF:-1,m3u_003PANAMERICANA_SD
+http://190.108.83.142:8000/play/a00i/index.m3u8
+#EXTINF:-1,m3u_CITY TV
+http://190.108.83.142:8000/play/a008/index.m3u8
+#EXTINF:-1,m3u_NAT GEO
+http://190.108.83.142:8000/play/a009/index.m3u8
+#EXTINF:-1,m3u_PARACHIQUE
+http://190.108.83.142:8000/play/a00h/index.m3u8
+#EXTINF:-1,m3u_TELESUR
+http://190.108.83.142:8000/play/a00f/index.m3u8
+#EXTINF:-1,udp_CTC TV
+http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:-1,udp_FUEGOTV
+http://190.108.83.142:8000/play/a003/index.m3u8
+#EXTINF:-1,udp_MX CLASIC
+http://190.108.83.142:8000/play/a004/index.m3u8
+#EXTINF:-1,udp_MX FAMILY
+http://190.108.83.142:8000/play/a002/index.m3u8
+#EXTINF:-1,udp_MX PRIME
+http://190.108.83.142:8000/play/a005/index.m3u8
+#EXTINF:-1,udp_PALMERA
+http://190.108.83.142:8000/play/a00a/index.m3u8
+#EXTINF:-1,udp_PIURA TV
+http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:-1,udp_TPTO
+http://190.108.83.142:8000/play/a00c/index.m3u8
+#EXTINF:-1,udp_TVPAZ
+http://190.108.83.142:8000/play/a00b/index.m3u8
+#EXTINF:-1,udp_UCHU TV
+http://190.108.83.142:8000/play/a006/index.m3u8
+#EXTINF:-1,udp_ZEEMUNDO
+http://190.108.83.142:8000/play/a001/index.m3u8
